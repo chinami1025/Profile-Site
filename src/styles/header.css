@@ -1,0 +1,64 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background: black;
+  color: white;
+  height: 90px;
+  position: fixed;
+  z-index: 10;
+}
+
+header .logo h3 a {
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+  transition: all 0.2s;
+}
+
+header .logo h3 a:hover {
+  color: gray;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+nav ul li a {
+  font-size: 19px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.2s;
+}
+
+nav ul li a:hover {
+  color: #48b4af;
+}
+
+/* TABLET SIZE ======================================================= */
+@media (max-width: 1200px) {
+  header .logo h3 a {
+    font-size: 25px;
+  }
+}
+
+/* MOBILE SIZE ======================================================== */
+@media (max-width: 420px) {
+  header .logo h3 a {
+    font-size: 20px;
+  }
+
+  nav ul li {
+    display: none;
+  }
+}

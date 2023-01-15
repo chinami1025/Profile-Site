@@ -1,0 +1,72 @@
+.skill-contents {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.skill-items {
+  margin: 50px 40px 10px 40px;
+  text-align: center;
+}
+
+.skill-items img {
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+.skill-items p {
+  margin-top: 10px;
+}
+
+/* TABLET SIZE ======================================================= */
+@media (max-width: 1200px) {
+  .skill-contents {
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+    margin-top: 60px;
+  }
+
+  .skill-items img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .skill-items h4 {
+    font-size: 30px;
+  }
+
+  .skill-items p {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+}
+
+/* MOBILE SIZE ======================================================== */
+@media (max-width: 420px) {
+  .skill-contents {
+    text-align: center;
+    flex-wrap: nowrap;
+    justify-content: start;
+    display: block;
+    width: auto;
+  }
+
+  .skill-items img {
+    height: 150px;
+    width: 150px;
+  }
+
+  .skill-items h4 {
+    font-size: 20px;
+  }
+
+  .skill-items p {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+}
