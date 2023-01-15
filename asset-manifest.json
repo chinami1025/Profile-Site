@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b46f6403.css",
+    "main.js": "/static/js/main.c9c3e77b.js",
+    "static/js/787.0f8c18f6.chunk.js": "/static/js/787.0f8c18f6.chunk.js",
+    "static/media/WCBCafe.png": "/static/media/WCBCafe.1b946c0dad737e2f4690.png",
+    "static/media/Java_school.jpg": "/static/media/Java_school.f5e1a2f2285d2781545c.jpg",
+    "static/media/mobile_shop.jpg": "/static/media/mobile_shop.d734e4f0e5d1543ecafb.jpg",
+    "static/media/kobegakuin_img.jpg": "/static/media/kobegakuin_img.8d1bd06e926d4a3c63e0.jpg",
+    "static/media/mainImage_kobe.jpg": "/static/media/mainImage_kobe.f2819048b3ba5b8ba10a.jpg",
+    "static/media/supportHandbook.png": "/static/media/supportHandbook.529efffa83a7a82a5214.png",
+    "static/media/ToDo.png": "/static/media/ToDo.f531ff9ccfa35244cb5b.png",
+    "static/media/profile_img.jpg": "/static/media/profile_img.cde3b26e3442d09e8689.jpg",
+    "static/media/react.png": "/static/media/react.02eac1236145195b5141.png",
+    "static/media/sass.png": "/static/media/sass.4990c570dab6945c20b2.png",
+    "static/media/java.png": "/static/media/java.1e00e9add474ced242ba.png",
+    "static/media/js.png": "/static/media/js.cc8ffa7b9d0377d7a316.png",
+    "index.html": "/index.html",
+    "main.b46f6403.css.map": "/static/css/main.b46f6403.css.map",
+    "main.c9c3e77b.js.map": "/static/js/main.c9c3e77b.js.map",
+    "787.0f8c18f6.chunk.js.map": "/static/js/787.0f8c18f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b46f6403.css",
+    "static/js/main.c9c3e77b.js"
+  ]
+}
