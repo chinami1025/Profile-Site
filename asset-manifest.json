@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b46f6403.css",
-    "main.js": "/static/js/main.c9c3e77b.js",
+    "main.js": "/static/js/main.ff126775.js",
     "static/js/787.0f8c18f6.chunk.js": "/static/js/787.0f8c18f6.chunk.js",
     "static/media/WCBCafe.png": "/static/media/WCBCafe.1b946c0dad737e2f4690.png",
     "static/media/Java_school.jpg": "/static/media/Java_school.f5e1a2f2285d2781545c.jpg",
@@ -17,11 +17,11 @@
     "static/media/js.png": "/static/media/js.cc8ffa7b9d0377d7a316.png",
     "index.html": "/index.html",
     "main.b46f6403.css.map": "/static/css/main.b46f6403.css.map",
-    "main.c9c3e77b.js.map": "/static/js/main.c9c3e77b.js.map",
+    "main.ff126775.js.map": "/static/js/main.ff126775.js.map",
     "787.0f8c18f6.chunk.js.map": "/static/js/787.0f8c18f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b46f6403.css",
-    "static/js/main.c9c3e77b.js"
+    "static/js/main.ff126775.js"
   ]
 }
