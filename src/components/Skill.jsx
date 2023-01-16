@@ -12,7 +12,7 @@ const Skill = () => {
             <div className="skill-items" key={key}>
               <img src={items.img} alt={items.alt} />
               <h4>{items.lang}</h4>
-              <p>{items.text}</p>
+              {items?.text && <p>{items.text}</p>}
             </div>
           );
         })}

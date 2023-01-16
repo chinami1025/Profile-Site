@@ -4,37 +4,33 @@ export const skillItems = [
     img: require("../Images/html.png"),
     alt: "HTMLの画像",
     lang: "HTML",
-    text: "HTMLがつかえます",
   },
   {
     img: require("../Images/css.png"),
     alt: "CSSの画像",
     lang: "CSS",
-    text: "CSSがつかえます",
   },
   {
     img: require("../Images/sass.png"),
     alt: "Sassの画像",
     lang: "Sass",
-    text: "Sassがつかえます",
   },
   {
     img: require("../Images/js.png"),
     alt: "JavaScriptの画像",
     lang: "JavaScript",
-    text: "JavaScriptがつかえます",
+    text: "jQueryも少し扱ったことがあります。",
   },
   {
     img: require("../Images/react.png"),
     alt: "Reactの画像",
     lang: "React",
-    text: "Reactがつかえます",
   },
   {
     img: require("../Images/java.png"),
     alt: "Javaの画像",
     lang: "Java",
-    text: "Javaがつかえます",
+    text: "職業訓練校にてEclipseを用いて学習しました。",
   },
 ];
 
@@ -71,20 +67,20 @@ export const portfolioDate = [
     alt: "WCBCafeサイトの写真",
     link: "https://chinami1025.github.io/WCBCafe/",
     title: "WCBCafe",
-    text: "Webデザインの本を参考に制作しました。",
+    text: "「1冊ですべて身につくHTML&CSSとWebデザイン入門講座」の本を参考に制作しました。",
   },
   {
     img: require("../Images/supportHandbook.png"),
     alt: "支援手帳アプリの写真",
     link: "https://github.com/chinami1025/SupportHandbook",
     title: "支援手帳",
-    text: "Javaを学習した際にJSPとServletを使い開発しました。",
+    text: "職業訓練校にて、Javaを学習した際にJSPを使い開発しました。短期間での開発なので、ログイン画面までの実装になっています。今後は、Springを用いて再開発する予定です。",
   },
   {
     img: require("../Images/ToDo.png"),
     alt: "Todoアプリの写真",
     link: "https://chinami1025.github.io/react-todo-app/",
     title: "Todo-List",
-    text: "ReactのYouTube動画を参考に作成しました。",
+    text: "ReactのYouTube動画を参考に作成しました。初めてReactについて学んで作成し、デザインも拙く使いにくいので、もっと利便性の高く使いやすいデザインのを今後作っていく予定です。",
   },
 ];
