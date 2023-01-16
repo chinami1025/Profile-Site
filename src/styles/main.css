@@ -46,6 +46,35 @@ main {
   margin-top: 30px;
 }
 
+.github-link {
+  background-color: black;
+  width: 280px;
+  border-radius: 40px;
+  margin: 0 auto;
+  margin-top: 100px;
+  box-shadow: 3px 3px 2px gray;
+}
+
+.github-link a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.github-text p {
+  font-size: 15px;
+  color: #f2f2f2;
+  font-weight: bold;
+}
+
+.github-image img {
+  width: 50px;
+  height: 100%;
+  padding-left: 10px;
+  display: block;
+}
+
 /* TABLET SIZE ======================================================= */
 @media (max-width: 1200px) {
   .mainImage img {

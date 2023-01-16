@@ -10,7 +10,12 @@ const Portfolio = () => {
         {portfolioDate.map((date, key) => {
           return (
             <div className="portfolio-date" key={key}>
-              <a href={date.link} className="portfolio-image" target="_blank">
+              <a
+                href={date.link}
+                className="portfolio-image"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 <img src={date.img} alt={date.alt} />
               </a>
               <div className="portfolio-text">

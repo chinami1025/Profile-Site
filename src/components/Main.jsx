@@ -1,6 +1,7 @@
 import React from "react";
 import mainImage from "../Images/mainImage_kobe.jpg";
 import profileImage from "../Images/profile_img.jpg";
+import githubImage from "../Images/GitHub-icon.png";
 import Skill from "./Skill";
 import "../styles/main.css";
 import About from "./About";
@@ -39,6 +40,20 @@ const Main = () => {
 
         <Skill />
         <Portfolio />
+        <div className="github-link">
+          <a
+            href="https://github.com/chinami1025"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <div className="github-text">
+              <p>GitHubのリンクはこちら</p>
+            </div>
+            <div className="github-image">
+              <img src={githubImage} alt="GitHubのアイコン画像" />
+            </div>
+          </a>
+        </div>
       </div>
     </main>
   );
