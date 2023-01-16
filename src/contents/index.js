@@ -19,7 +19,7 @@ export const skillItems = [
     img: require("../Images/js.png"),
     alt: "JavaScriptの画像",
     lang: "JavaScript",
-    text: "jQueryも少し扱ったことがあります。",
+    text: "jQueryも少し扱いました。",
   },
   {
     img: require("../Images/react.png"),
@@ -30,7 +30,7 @@ export const skillItems = [
     img: require("../Images/java.png"),
     alt: "Javaの画像",
     lang: "Java",
-    text: "職業訓練校にてEclipseを用いて学習しました。",
+    text: "Eclipseを用いて学習しました。",
   },
 ];
 
