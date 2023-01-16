@@ -19,7 +19,7 @@
 
 .portfolio-text {
   background: white;
-  padding: 80px 50px 0 50px;
+  padding: 70px 50px 0 50px;
   box-shadow: 3px 5px 4px gray;
   border-radius: 45%;
   width: 330px;
@@ -31,7 +31,7 @@
 }
 
 .portfolio-text p {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 /* TABLET SIZE ======================================================= */

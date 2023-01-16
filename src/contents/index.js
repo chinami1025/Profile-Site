@@ -67,20 +67,20 @@ export const portfolioDate = [
     alt: "WCBCafeサイトの写真",
     link: "https://chinami1025.github.io/WCBCafe/",
     title: "WCBCafe",
-    text: "「1冊ですべて身につくHTML&CSSとWebデザイン入門講座」の本を参考に制作しました。",
+    text: "「1冊ですべて身につくHTML&CSSとWebデザイン入門講座」の本を参考に\n制作しました。",
   },
   {
     img: require("../Images/supportHandbook.png"),
     alt: "支援手帳アプリの写真",
     link: "https://github.com/chinami1025/SupportHandbook",
     title: "支援手帳",
-    text: "職業訓練校にて、Javaを学習した際にJSPを使い開発しました。短期間での開発なので、ログイン画面までの実装になっています。今後は、Springを用いて再開発する予定です。",
+    text: "職業訓練校にて、Javaを学習した際にJSPを使い開発しました。短期間での開発なので、ログイン画面までの実装になっています。今後は、Springを用いて\n再開発する予定です。",
   },
   {
     img: require("../Images/ToDo.png"),
     alt: "Todoアプリの写真",
     link: "https://chinami1025.github.io/react-todo-app/",
     title: "Todo-List",
-    text: "ReactのYouTube動画を参考に作成しました。初めてReactについて学んで作成し、デザインも拙く使いにくいので、もっと利便性の高く使いやすいデザインのを今後作っていく予定です。",
+    text: "ReactのYouTube動画を参考に作成しました。初めてReactについて学んで作成し、デザインも拙く使いにくいので、もっと利便性の高く使いやすいデザインのものを今後作っていく予定です。",
   },
 ];
