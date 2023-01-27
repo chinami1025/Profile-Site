@@ -6,6 +6,7 @@ import Skill from "./Skill";
 import "../styles/main.css";
 import About from "./About";
 import Portfolio from "./Portfolio";
+import TopButton from "./TopButton";
 
 const Main = () => {
   return (
@@ -54,6 +55,7 @@ const Main = () => {
             </div>
           </a>
         </div>
+        <TopButton />
       </div>
     </main>
   );
