@@ -19,7 +19,7 @@ export const skillItems = [
     img: require("../Images/js.png"),
     alt: "JavaScriptの画像",
     lang: "JavaScript",
-    text: "jQueryも少し扱いました。",
+    text: "jQueryも少し学習しました。",
   },
   {
     img: require("../Images/react.png"),
