@@ -40,7 +40,7 @@ const Main = () => {
 
         <Skill />
         <Portfolio />
-        <div className="github-link">
+        <div className="github-btn">
           <a
             href="https://github.com/chinami1025"
             target="_blank"
