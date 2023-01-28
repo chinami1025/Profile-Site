@@ -78,6 +78,13 @@
     right: 50px;
     bottom: 100px;
   }
+  #top-buttonOut {
+    bottom: 60px;
+    height: 60px;
+    width: 60px;
+    right: 50px;
+    bottom: 100px;
+  }
   #top-button img {
     height: 60px;
     width: 60px;
@@ -90,6 +97,13 @@
 /* MOBILE SIZE ======================================================== */
 @media (max-width: 420px) {
   #top-button {
+    bottom: 60px;
+    height: 50px;
+    width: 50px;
+    right: 20px;
+    bottom: 100px;
+  }
+  #top-buttonOut {
     bottom: 60px;
     height: 50px;
     width: 50px;
