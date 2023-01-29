@@ -21,6 +21,7 @@ function ScrollTopButton() {
       setStyle("top-buttonOut");
       setShowButton(true);
     } else {
+      setStyle("");
       setShowButton(false);
     }
   };
